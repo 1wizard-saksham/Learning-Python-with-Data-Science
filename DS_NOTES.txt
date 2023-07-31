@@ -1,0 +1,38 @@
+Notes:
+
+i) Types of data in tabular data
+	Also called qualitative and quantaive data
+a) Numerical
+	i) Continuous (can also be fractional)- Eg:- Temperature of a day 
+	ii) Discrete- Eg:- stroke(0,1 ), True/False
+b) Categorical
+	i) Nonimal-order doesn't matter- Eg:- job type
+	ii) Ordinal-order matters- Eg:- good/better/best,   large/small/medium type of T-shirts
+
+
+Required knowledge
+-- NumPy, Pandas, matplotlib, seaborn, plotly, scikit-learn (USED FOR MACHINE LEARNING) library in Python
+-- Linear Algebra by Gilbert Strang
+-- Thomas Calculus 
+-- Mathematics for machine learning
+-- The art of statistics learning from data by David Spiegelhalter
+
+independent variable (feature)
+dependent variable (label)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
